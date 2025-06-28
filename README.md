@@ -14,6 +14,7 @@
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: rgb(205, 243, 255);     
     }
 
     .hero {
@@ -40,7 +41,7 @@
     }
   </style>
 </head>
-<body>
+<body >
 
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -73,18 +74,18 @@
     <div class="container">
       <h2>About Me</h2>
       <p>
-        <h4>✅ General Professional</h4>
-<li>liResults-driven and detail-oriented professional with a strong background in [your field, e.g., project management, marketing, software development]. Known for excellent problem-solving skills, clear communication, and a commitment to delivering high-quality results. Seeking to leverage experience and drive in a challenging new role.
-</li><br><br>
-<h4>💻 Tech</h4>
-<li>Passionate and solution-focused software engineer with [X] years of experience in developing scalable web and mobile applications. Skilled in [technologies], with a strong foundation in clean code principles, team collaboration, and agile workflows.
-</li><br><br>
-<h4>🎯 Entry-Level/</h4>
-<li>Motivated and fast-learning recent graduate with a degree in [your degree] and hands-on experience through internships and academic projects. Eager to apply theoretical knowledge and fresh perspective to contribute meaningfully to a dynamic team.
-</li><br><br>
-<h4>🧑‍🤝‍🧑 Human Resources</h4>
-<li>Reliable and organized HR professional with expertise in recruitment, employee relations, and policy compliance. Known for building strong professional relationships, streamlining HR operations, and supporting organizational culture and goals.
-</li>
+        <h4><li>✅ General Professional</li></h4>
+<p>liResults-driven and detail-oriented professional with a strong background in [your field, e.g., project management, marketing, software development]. Known for excellent problem-solving skills, clear communication, and a commitment to delivering high-quality results. Seeking to leverage experience and drive in a challenging new role.</p>
+<br><br>
+<h4><li>💻 Tech</li></h4>
+<p>Passionate and solution-focused software engineer with [X] years of experience in developing scalable web and mobile applications. Skilled in [technologies], with a strong foundation in clean code principles, team collaboration, and agile workflows.
+</p><br><br>
+<h4><li>🎯 Entry-Level</li></h4>
+<p>Motivated and fast-learning recent graduate with a degree in [your degree] and hands-on experience through internships and academic projects. Eager to apply theoretical knowledge and fresh perspective to contribute meaningfully to a dynamic team.
+</p><br><br>
+<h4><li>🧑‍🤝‍🧑 Human Resources</li></h4>
+<p>Reliable and organized HR professional with expertise in recruitment, employee relations, and policy compliance. Known for building strong professional relationships, streamlining HR operations, and supporting organizational culture and goals.
+</p>
 
       </p>
     </div>
@@ -121,7 +122,7 @@
         </div>
             </div>
           </div>
-        </section>
+       
           <!-- Contact Section -->
   <section class="section" id="contact">
     <div class="container">
