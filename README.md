@@ -121,11 +121,7 @@
               <p class="card-text">Structured query language (SQL) is a programming language for storing and processing information in a relational database.</p>
             </div>
           </div>
-        </div>
-        <!-- Add more project cards as needed -->
-      </div>
-    </div>
-              </section>
+           </div>
 
   <!-- Contact Section -->
   <section class="section" id="contact">
