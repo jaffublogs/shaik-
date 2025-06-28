@@ -110,6 +110,7 @@
             <div class="card-body">
               <h5 class="card-title">Python</h5>
               <p class="card-text">Python is a high-level, general-purpose programming language known for its readability and versatility.</p>
+              <section>
             </div>
           </div>
            <div class="col-md-4">
@@ -124,6 +125,7 @@
         <!-- Add more project cards as needed -->
       </div>
     </div>
+              </section>
 
   <!-- Contact Section -->
   <section class="section" id="contact">
