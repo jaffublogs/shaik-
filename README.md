@@ -132,7 +132,7 @@
          <li>phone no: 7661869592</li>
         <li>Email: jaffarallis7661@gmail.com</li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/s-jaffar-alli-b6813624a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">linkedin.com/in/johndoe</a></li>
-        <li>GitHub: <a href="https://github.com/jaffublogs">github.com/johndoe</a></li>
+        <li>GitHub: <a href="https://github.com/jaffublogs">github.com/jaffu</a></li>
       </ul>
     </div>
   </section>
