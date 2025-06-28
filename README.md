@@ -76,13 +76,13 @@
         <h4>✅ General Professional</h4>
 <li>liResults-driven and detail-oriented professional with a strong background in [your field, e.g., project management, marketing, software development]. Known for excellent problem-solving skills, clear communication, and a commitment to delivering high-quality results. Seeking to leverage experience and drive in a challenging new role.
 </li><br><br>
-<h4>💻 Tech/IT Professional</h4>
+<h4>💻 Tech</h4>
 <li>Passionate and solution-focused software engineer with [X] years of experience in developing scalable web and mobile applications. Skilled in [technologies], with a strong foundation in clean code principles, team collaboration, and agile workflows.
 </li><br><br>
-<h4>🎯 Entry-Level/Recent Graduate</h4>
+<h4>🎯 Entry-Level/</h4>
 <li>Motivated and fast-learning recent graduate with a degree in [your degree] and hands-on experience through internships and academic projects. Eager to apply theoretical knowledge and fresh perspective to contribute meaningfully to a dynamic team.
 </li><br><br>
-<h4>🧑‍🤝‍🧑 Human Resources/Admin</h4>
+<h4>🧑‍🤝‍🧑 Human Resources</h4>
 <li>Reliable and organized HR professional with expertise in recruitment, employee relations, and policy compliance. Known for building strong professional relationships, streamlining HR operations, and supporting organizational culture and goals.
 </li>
 
@@ -124,7 +124,6 @@
         <!-- Add more project cards as needed -->
       </div>
     </div>
-  </section>
 
   <!-- Contact Section -->
   <section class="section" id="contact">
